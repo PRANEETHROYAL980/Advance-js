@@ -1,0 +1,98 @@
+[
+    {
+        "image":"https://img.freepik.com/premium-photo/bowl-rice-with-chicken-rice_1028566-42863.jpg?w=250",
+        "itemName":"Chicken Biriyani",
+        "price":"249",
+        "rating":"4.3",
+        "type":"NonVeg",
+        "course":"MainCourse"
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/super-delicious-asian-biryani-image_1197144-1325.jpg?w=250",
+        "itemName":"Mutton Biriyani",
+        "price":"349",
+        "rating":"4.6",
+        "type":"NonVeg",
+        "course":"MainCourse"
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/bowl-rice-with-shrimp-vegetables_662214-415627.jpg?w=250",
+        "itemName":"prawns Biriyani",
+        "price":"299",
+        "rating":"3.9",
+        "type":"NonVeg",
+        "course":"MainCourse"
+    },
+    {
+        "image":"https://img.freepik.com/free-photo/dish-with-rice_144627-18096.jpg?t=st=1728296155~exp=1728299755~hmac=301ecbbf3134be6acd47c6bc195b3f4daabde9e042892de4300ddfa53476035b&w=250",
+        "itemName":"Veg Biriyani",
+        "price":"199",
+        "rating":"4.1",
+        "type":"Veg",
+        "course":"MainCourse"
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/delightful-basmati-biryani-perfection_1095465-6427.jpg?ga=GA1.1.1354672825.1722836919&semt=ais_hybrid&w=250",
+        "itemName":"kaju Biriyani",
+        "price":"299",
+        "rating":"3.8",
+        "type":"Veg",
+        "course":"MainCourse"
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/healthy-paneer-pulav-pilaf-using-basmati-rice-served-bowl-plate-indian-food_466689-72577.jpg?ga=GA1.1.1354672825.1722836919&semt=ais_hybrid&w=250",
+        "itemName":"Paneer Biriyani",
+        "price":"269",
+        "rating":"3.8",
+        "type":"Veg",
+        "course":"MainCourse"
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/simple-garlic-butter-rice-cooked-rice-image_1036998-351642.jpg?ga=GA1.1.1354672825.1722836919&semt=ais_hybrid&w=250",
+        "itemName":"Mushroom Biriyani",
+        "price":"289",
+        "rating":"3.6",
+        "type":"Veg",
+        "course":"MainCourse"
+    },
+    {
+        "image":"https://img.freepik.com/free-photo/view-ready-eat-delicious-meal-go_23-2151431914.jpg?ga=GA1.1.1354672825.1722836919&semt=ais_hybrid&w=250",
+        "itemName":"Chicken65",
+        "price":"289",
+        "rating":"4.3",
+        "type":"NonVeg",
+        "course":"Starters"
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/set-perfectly-grilled-paneer-tikka-skewers-arranged-neatly-white-plate-aigenerated_200839-2832.jpg?ga=GA1.1.1354672825.1722836919&semt=ais_hybrid&w=250",
+        "itemName":"Paneer tikka",
+        "price":"239",
+        "rating":"4.2",
+        "type":"Veg",
+        "course":"Starters"
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/traditional-brazilian-cheese-bread-po-de-queijo_1114068-37417.jpg?ga=GA1.1.1354672825.1722836919&semt=ais_hybrid&w=250",
+        "itemName":"cheese puffs",
+        "price":"189",
+        "rating":"4.2",
+        "type":"Veg",
+        "course":"Starters"
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/delicious-shrimp-cocktail-isolated-white-background_787273-92934.jpg?ga=GA1.1.1354672825.1722836919&semt=ais_hybrid&w=250",
+        "itemName":"Prawns cocktail",
+        "price":"299",
+        "rating":"3.8",
+        "type":"NonVeg",
+        "course":"Starters" 
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/baked-puff-pastry-with-pear-camembert-cheese-baking-paper-wooden-table_960396-841938.jpg?ga=GA1.1.1354672825.1722836919&semt=ais_hybrid&w=250",
+        "itemName":"Baked camembert",
+        "price":"349",
+        "rating":"4.0",
+        "type":"NonVeg",
+        "course":"Starters"   
+    }
+]
